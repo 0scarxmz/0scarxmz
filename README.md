@@ -19,7 +19,7 @@ My focus is on building **real-world applications** — from AI-powered APIs to 
 ---
 
 ## 📌 Featured Projects
-- **[3D Model Generator API](https://oscars-spot.vercel.app/)** – Flask REST API that generates 3D models from text, integrated with Stripe + Supabase.
+- **[3D Model Generator API](https://model-vault-ai.lovable.app/)** – Flask REST API that generates 3D models from text, integrated with Stripe + Supabase.
 - **[SaaS Builder](https://github.com/0scarxmz/auto-saas-builder)** – LLM-assisted Node.js tool that scaffolds a minimal SaaS starter with authentication.
 - **[Dog vs Cat Classifier](https://github.com/0scarxmz/Dog-vs-Cat-guesser)** – PyTorch CNN model to classify images, deployed via Flask.
 - **[Emotion Recognition (Real-time)](https://github.com/0scarxmz/emotion_recognition)** – OpenCV + PyTorch pipeline for real-time facial emotion detection.
